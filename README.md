@@ -1,6 +1,6 @@
 # revolut-test
 
-**build-ifra-terraform** - It contains terraform code to build AWS Elastic Beanstalks infra and deploys first python web package developed in Flask
+**build-infra-terraform** - It contains terraform code to build AWS Elastic Beanstalks infra and deploys first python web package developed in Flask
 It contains application-library that has eb-setup.tf that is a terraform library that is callable from Modules mentioned in environment specific folder here like blue  / green
 setup-scripts - It contains basis bash script that has terraform init/plan/deploy steps
 
